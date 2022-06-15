@@ -1,5 +1,5 @@
-Lisp-style trampolines in Common Lisp, C, Ada, Oberon-2, and Revised Oberon
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Examples of using Lisp-style trampolines in Common Lisp, C, Ada, Oberon-2, and Revised Oberon
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 This repository contains source code showing examples of Lisp-style
 trampolines in Common Lisp, C, Ada, Oberon-2, and Revised Oberon, in
